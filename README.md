@@ -5,9 +5,9 @@ This project analyzes a given Pokemon dataset and solves 12 specific problems re
 ## Setup
 
 1. Install the required dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 2. Download the Pokemon dataset CSV file and place it in the same directory as the script, naming it `Pokemon.csv`.
 
