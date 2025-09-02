@@ -34,8 +34,5 @@ python pokemon_analysis.py
 12. **Save results to new CSV file**
 
 ## Output
-
-The script will:
 - Print detailed results for each problem
-- Generate a new CSV file (`pokemon_analysis_results.csv`) with all modifications
-- Show statistics and analysis for each step
+- Generate a new CSV file (`pokemon_analysis_results.csv`) with changes
