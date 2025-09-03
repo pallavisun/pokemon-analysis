@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 Run the analysis script:
 ```bash
-python pokemon_analysis.py
+python3 pokemon_analysis.py
 ```
 
 ## Problems Solved
